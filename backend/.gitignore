@@ -1,0 +1,18 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IDE
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Application secrets
+src/main/resources/application.properties
